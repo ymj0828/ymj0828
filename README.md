@@ -7,9 +7,16 @@
   사용되는 기술에 대해 깊이 탐구하는 데 주저하지 않습니다.
 </p>
 
+</br>
+
 # 
 
+</br>
+
 <h3 align="center">🛠 Skills 🛠</h3>
+
+</br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
@@ -25,9 +32,16 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
+</br>
+
 # 
 
+</br>
+
 <h3 align="center">🔥 Stats 🔥</h3>
+
+</br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ymj0828&hide=stars&show_icons=true&theme=slateorange&hide_border=true&count_private=true" width=50% />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymj0828&layout=compact&show_icons=true&theme=slateorange&hide_border=true&count_private=true" width=33% />
