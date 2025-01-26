@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">🛠 Skills 🛠</h3>
+<h2 align="center">🛠 Skills 🛠</h2>
 
 </br>
 
@@ -27,7 +27,7 @@
 
 </br>
 
-<h3 align="center">🔥 Stats 🔥</h3>
+<h2 align="center">🔥 Stats 🔥</h2>
 
 </br>
 
