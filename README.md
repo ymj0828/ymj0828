@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hi%20there!%20👋&fontAlign=76&fontAlignY=40&fontSize=60)
 
 
+# 
 
-<h2 align="center">🛠 Skills 🛠</h2>
+</br>
+
+<h3 align="center">🛠 Skills 🛠</h3>
 
 </br>
 
@@ -23,11 +26,11 @@
 
 </br>
 
-
+# 
 
 </br>
 
-<h2 align="center">🔥 Stats 🔥</h2>
+<h3 align="center">🔥 Stats 🔥</h3>
 
 </br>
 
