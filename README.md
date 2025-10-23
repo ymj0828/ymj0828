@@ -26,9 +26,5 @@
 
 </br>
 
-# 
 
-</br>
-
-<h3 align="center">🔥 Stats 🔥</h3>
 
