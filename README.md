@@ -32,9 +32,3 @@
 
 <h3 align="center">🔥 Stats 🔥</h3>
 
-</br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ymj0828&hide=stars&show_icons=true&theme=slateorange&hide_border=true&count_private=true" width=50% />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymj0828&layout=compact&show_icons=true&theme=slateorange&hide_border=true&count_private=true" width=33% />
-</div>
